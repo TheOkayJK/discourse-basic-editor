@@ -1,4 +1,4 @@
-# DiscourseBasicEditor (don't use this fork. I am trying various things and it is very unstable)
+# DiscourseBasicEditor
 
 Hi, I am working on a plugin at the moment that replaces the standard editor with a wysiwg editor. I think its easier for beginner users like myself and others.  Please checkout the thread on meta for more details
 
